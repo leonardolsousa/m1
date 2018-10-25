@@ -8,6 +8,12 @@
                 <version>0.1.0</version>
             </Academia_HelloWorld>
         </modules>
+
+        <blocks>
+            <academia_helloworld>
+                <class>Academia_HelloWorld_Block</class>
+            </academia_helloworld>
+        </blocks>
     </global>
 
     <!-- Configuração de Rotas -->
